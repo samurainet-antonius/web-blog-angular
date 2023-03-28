@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'web-blog';
+  paragraf = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, quaerat voluptas? Reiciendis enim quod maiores eaque repellendus inventore quaerat eius neque eveniet ullam! Earum expedita modi sint voluptatem! Consectetur, ullam.'
 }
